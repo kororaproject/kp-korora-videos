@@ -1,16 +1,16 @@
 Name: korora-videos
 Version: 0.1
-Release: 1%{?dist}
+Release: 1%{?dist}.1
 Summary: Package to provide Korora videos
 
 Group: Documentation
 License: Creative Commons SA
 URL: http://kororaproject.org
-Source0: korora-install-howto.webm
+Source0: http://dl.kororaproject.org/pub/videos/korora-install-howto.webm
 BuildArch: noarch
 
 %description
-Package to provide video on how to use Korora.
+Package to provide videos on how to use Korora.
 
 %prep
 
